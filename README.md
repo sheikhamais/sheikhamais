@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sheikhamais
+- 👀 I’m a passionate iOS developer
+- 🌱 I keep learning about developing better iOS apps
+- 📫 Find me on LinkedIn: https://pk.linkedin.com/in/amais-sheikh-%EF%A3%BF-80619114a
+- 💞 Write me at: sheikhamais@gmail.com
